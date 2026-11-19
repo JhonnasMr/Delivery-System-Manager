@@ -1,0 +1,10 @@
+{
+  "name": "Delivery Fleet Manager",
+  "short_name": "DFM",
+  "description": "Plataforma de gestión logística y administración de flota de delivery",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait"
+}
